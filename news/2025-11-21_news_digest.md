@@ -14,9 +14,9 @@
 - **Source**: NHK News
 - **Link**: [http://www3.nhk.or.jp/news/html/20251121/k10014983421000.html](http://www3.nhk.or.jp/news/html/20251121/k10014983421000.html)
 
-## 4. 自民 国会議員の歳費 月額5万円引き上げ検討 維新は反対姿勢
+## 4. 政府 ラピダスに1000億円出資へ 追加支援で1兆円規模の計画も
 - **Source**: NHK News
-- **Link**: [http://www3.nhk.or.jp/news/html/20251121/k10014983511000.html](http://www3.nhk.or.jp/news/html/20251121/k10014983511000.html)
+- **Link**: [http://www3.nhk.or.jp/news/html/20251121/k10014983571000.html](http://www3.nhk.or.jp/news/html/20251121/k10014983571000.html)
 
 ## 5. 軽油引取税など暫定税率廃止 地財審 “代わりの財源確保を”
 - **Source**: NHK News
