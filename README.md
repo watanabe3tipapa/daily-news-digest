@@ -50,3 +50,7 @@ uv run python news_collector.py
 ## ライセンス
 
 MIT
+
+---
+
+
