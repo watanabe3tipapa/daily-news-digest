@@ -23,9 +23,22 @@ uv run python news_collector.py
 
 ### GitHub Pagesで公開
 
-1. GitHubリポジトリの Settings > Pages に移動
-2. Source を "GitHub Actions" に設定
-3. ワークフローが自動的に実行され、`docs/` フォルダの内容が公開されます
+#### 初回セットアップ
+
+1. GitHubリポジトリページを開く
+2. **Settings** タブをクリック
+3. 左サイドバーの **Pages** をクリック
+4. **Source** セクションで **GitHub Actions** を選択
+5. 変更を保存
+
+#### デプロイ方法
+
+以下のいずれかの方法でデプロイされます：
+
+- **自動**: `main` ブランチにプッシュすると自動的にデプロイ
+- **手動**: GitHubの **Actions** タブ → **Deploy to GitHub Pages** → **Run workflow**
+
+数分後、`https://<username>.github.io/daily-news-digest/` でアクセス可能になります。
 
 ### 手動でワークフローを実行
 
