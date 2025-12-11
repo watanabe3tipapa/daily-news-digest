@@ -4,6 +4,9 @@ NHKニュースの毎日のダイジェストです。
 
 ## Recent News
 
+### [2025-12-11 News Digest](./2025-12-11_news_digest.md)
+*最新のニュース*
+
 ### [2025-12-10 News Digest](./2025-12-10_news_digest.md)
 *最新のニュース*
 
